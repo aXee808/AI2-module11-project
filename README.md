@@ -2,7 +2,8 @@
 
 ## Projet de datascience industriel
 Projet complet de data science sur problematique industrielle, a savoir
-ameliorer la maintenance predictive sur 3 sites de production.
+ameliorer la maintenance predictive sur 3 sites de production. Examen blanc
+en 72h.
 
 ### Analyse fonctionnelle et technique (rapport_analyse/BC01_BC02.pdf)
 
