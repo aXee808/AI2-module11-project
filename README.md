@@ -35,7 +35,7 @@ Jupyter Notebook (Python, Pandas, Scikit Learn, XGboost
 * API (FastAPI) pour servir les inferences du meilleur modele
 * interface IHM via page streamlit 
 
-### Dashboard avec KPI principaux (dashboard/*)
+### Dashboard avec KPI principaux (dashboard/dashboard.pbix)
 
 Rapport PowerBI
 
