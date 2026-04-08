@@ -20,7 +20,7 @@ en 72h.
 
 ### Projet ML (ml_project/BC03_BC04.ipynb)
 
-Jupyter Notebook (Python, Pandas, Scikit Learn, XGboost
+Jupyter Notebook (Python, Pandas, Scikit Learn, XGboost)
 
 * Exploration des donnees (matplotlib, seaborn)
 * Recherche de corrélations (heatmap)
